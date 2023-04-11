@@ -1,0 +1,15 @@
+/Users/yoanzhelyazkov/RiderProjects/Demo/BasicOopDemo/bin/Debug/net6.0/BasicOopDemo
+/Users/yoanzhelyazkov/RiderProjects/Demo/BasicOopDemo/bin/Debug/net6.0/BasicOopDemo.deps.json
+/Users/yoanzhelyazkov/RiderProjects/Demo/BasicOopDemo/bin/Debug/net6.0/BasicOopDemo.runtimeconfig.json
+/Users/yoanzhelyazkov/RiderProjects/Demo/BasicOopDemo/bin/Debug/net6.0/BasicOopDemo.dll
+/Users/yoanzhelyazkov/RiderProjects/Demo/BasicOopDemo/bin/Debug/net6.0/BasicOopDemo.pdb
+/Users/yoanzhelyazkov/RiderProjects/Demo/BasicOopDemo/obj/Debug/net6.0/BasicOopDemo.csproj.AssemblyReference.cache
+/Users/yoanzhelyazkov/RiderProjects/Demo/BasicOopDemo/obj/Debug/net6.0/BasicOopDemo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yoanzhelyazkov/RiderProjects/Demo/BasicOopDemo/obj/Debug/net6.0/BasicOopDemo.AssemblyInfoInputs.cache
+/Users/yoanzhelyazkov/RiderProjects/Demo/BasicOopDemo/obj/Debug/net6.0/BasicOopDemo.AssemblyInfo.cs
+/Users/yoanzhelyazkov/RiderProjects/Demo/BasicOopDemo/obj/Debug/net6.0/BasicOopDemo.csproj.CoreCompileInputs.cache
+/Users/yoanzhelyazkov/RiderProjects/Demo/BasicOopDemo/obj/Debug/net6.0/BasicOopDemo.dll
+/Users/yoanzhelyazkov/RiderProjects/Demo/BasicOopDemo/obj/Debug/net6.0/refint/BasicOopDemo.dll
+/Users/yoanzhelyazkov/RiderProjects/Demo/BasicOopDemo/obj/Debug/net6.0/BasicOopDemo.pdb
+/Users/yoanzhelyazkov/RiderProjects/Demo/BasicOopDemo/obj/Debug/net6.0/BasicOopDemo.genruntimeconfig.cache
+/Users/yoanzhelyazkov/RiderProjects/Demo/BasicOopDemo/obj/Debug/net6.0/ref/BasicOopDemo.dll
